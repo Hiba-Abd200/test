@@ -1,2 +1,6 @@
 test git
+<<<<<<< HEAD
 toto
+=======
+hiba
+>>>>>>> edf898bf9ba9923b3a6111ae6a59ce5eedd21209
